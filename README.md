@@ -20,7 +20,7 @@ Grupo 75
 ### Tutor(a) 
 - <a href="https://www.linkedin.com/company/inova-fusca">ANDRÉ GODOI CHIOVATO</a>
 ### Coordenador(a)
-- <a href="https://www.linkedin.com/company/inova-fusca">Caique Nonato da Silva Bezerra</a>
+- Caique Nonato da Silva Bezerra</a>
 
 
 ## 📜 Descrição
