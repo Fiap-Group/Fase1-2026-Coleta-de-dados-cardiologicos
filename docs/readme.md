@@ -52,7 +52,12 @@ A aplicação destas técnicas permite:
 
 Para extrair as entidades mencionadas, utilizamos o `scispaCy`, uma biblioteca otimizada para textos biomédicos.
 
+---
+
+
 # NLP para Análise de Prevalência e Fatores de Risco em Doenças Cardiovasculares (PNS) 🩺📊
+
+<br>
 
 Este projeto demonstra como técnicas de **Processamento de Linguagem Natural (NLP)** podem ser aplicadas a artigos científicos e dados epidemiológicos para extrair conhecimentos críticos sobre Doenças Cardiovasculares (DCV) no Brasil, utilizando como base os dados da Pesquisa Nacional de Saúde (PNS).
 
