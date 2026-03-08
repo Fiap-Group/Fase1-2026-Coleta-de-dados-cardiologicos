@@ -1,0 +1,2416 @@
+Artigo Original
+
+Impacto da Poluição do Ar por MP2,5 na Mortalidade por Doenças 
+do Aparelho Circulatório nos Bairros do Município do Rio de Janeiro 
+(2000-2019)
+Impact of PM2.5 Air Pollution on Mortality from Circulatory System Diseases in the Neighborhoods of the City 
+of Rio de Janeiro (2000-2019)
+
+Paulo Henrique de Moura,1 Leandro Dias Gomes de Carvalho,1
+Salis,1 Marina Silva Paez,1 Mariane Branco Alves,1
+Santos,1 Nelson Albuquerque de Souza e Silva1
+Universidade Federal do Rio de Janeiro (UFRJ),1 Rio de Janeiro, RJ – Brasil
+Universidade Federal do Estado do Rio de Janeiro (UNIRIO),2 Rio de Janeiro, RJ - Brasil
+
+ Paulo Henrique Godoy,2
+
+ Lucia Helena Alvares 
+
+ Luiz Francisco Pires Guimarães Maia,1 Renata Libonati dos 
+
+Resumo
+
+Fundamento: A poluição do ar por material particulado fino com diâmetro aerodinâmico ≤ 2,5 μm (MP2,5) é o principal 
+fator de risco ambiental associado às doenças do aparelho circulatório (DAC), às doenças isquêmicas do coração (DIC) 
+e às doenças cerebrovasculares (DCBV).
+
+Objetivo:  Estimar  as  taxas  de  mortalidade  por  DAC,  DIC  e  DCBV  (2000-2019)  entre  residentes  dos  164  bairros  do 
+município do Rio de Janeiro, conforme os níveis de MP2,5.
+
+Métodos: Estudo ecológico retrospectivo com dados georreferenciados de satélite, classificados em três níveis de MP2,5, 
+e  registros  de  óbitos  do  Departamento  de  Informação  e  Informática  do  Sistema  Único  de  Saúde  por  DAC,  DIC  e 
+DCBV em indivíduos de ambos os sexos, com idade ≥ 20 anos, no período de 2000 a 2019. Calcularam-se taxas de 
+mortalidade por 1.000 habitantes, ajustadas por idade, e realizaram-se análises estatísticas comparativas entre os sexos, 
+níveis de MP2,5 e faixas etárias (significância de 5%).
+
+Resultados: Cerca de 91% dos 4,7 milhões de residentes (≥ 20 anos) vivem em áreas de alta ou extrema poluição por MP2,5. 
+Os óbitos ocorreram até 3,4 anos mais precocemente entre homens, em comparação a áreas de poluição moderada. As 
+maiores taxas de mortalidade por DAC foram observadas em bairros com poluição alta e extrema (feminino = 3,9 ± 1,7; 
+intervalo de confiança de 95% [IC 95%] =3,5-4,2); masculino = 4,6 ± 2,1; IC 95% = 4,1-4,9), especialmente na faixa etária 
+≥ 70 anos. Houve associações significativas entre as taxas de mortalidade e os níveis de poluição para DAC (p = 0,019), 
+DIC (p = 0,025) e DCBV (p = 0,002) na faixa etária de 50-69 anos, comparando áreas moderadamente e extremamente 
+poluídas.  Verificou-se  vulnerabilidade  social  intermediária/alta  em  71%  dos  bairros,  com  gradiente  socioambiental 
+crescente que associa maior vulnerabilidade a concentrações mais elevadas de MP2,5 (R = 0,354; p = 0,001).
+
+Conclusão:  As  concentrações  médias  de  MP2,5  nos  bairros  do  Rio  de  Janeiro  excederam  em  quatro  vezes  o  padrão 
+recomendado pela Organização Mundial de Saúde. A mortalidade por DAC é significativamente mais elevada e precoce 
+em áreas de poluição alta ou extrema.
+
+Palavras-chave: Mortalidade; Doenças Cardiovasculares; Poluição do Ar; Mapeamento Geográfico.
+
+Abstract
+
+Background: Air pollution by fine particulate matter with an aerodynamic diameter ≤ 2.5 μm (PM2.5) is the main environmental risk factor 
+associated with diseases of the circulatory system (DCS), ischemic heart disease (IHD), and cerebrovascular diseases (CBVD).
+
+Objective: To estimate mortality rates from DCS, IHD, and CBVD (2000-2019) among residents of the 164 neighborhoods of Rio de Janeiro, 
+according to PM2.5 levels.
+
+Methods:  This  retrospective  ecological  study  used  georeferenced  satellite  data  classified  into  three  PM2.5  levels  and  mortality  records  from 
+the Department of Information and Informatics of the Unified Health System for DCS, IHD, and CBVD among individuals of both sexes aged  
+
+Correspondência: Paulo Henrique de Moura •
+Universidade Federal do Rio de Janeiro (UFRJ), Instituto do Coração Edson Saad - R. Prof. Rodolpho Paulo Rocco, 255. CEP 21941-913, Prédio do HU, 8º andar, 
+sala 6, Cidade Universitária, Rio de Janeiro, RJ - Brasil
+E-mail: paulohdemoura@gmail.com
+Artigo recebido em 12/07/2025, revisado em 25/09/2025, aceito em 23/10/2025
+Editor responsável pela revisão: Marcio Bittencourt
+
+DOI: https://doi.org/10.36660/abc.20250459
+
+1
+
+Arq Bras Cardiol. 2026; 123(1):e20250459
+
+Moura et al.
+Mortalidade Cardiovascular e Poluição Atmosférica
+
+Artigo Original
+
+≥ 20 years from 2000 to 2019. Age-adjusted mortality rates per 1,000 inhabitants were calculated, and comparative statistical analyses were 
+performed by sex, PM2.5 level, and age group (5% significance).
+
+Results: Approximately 91% of the 4.7 million residents (≥ 20 years) live in areas with high or extreme PM2.5 pollution. Deaths occurred up to 3.4 
+years earlier among men living in highly polluted areas compared with those in moderately polluted areas. The highest DCS mortality rates were 
+observed in neighborhoods with high and extreme pollution (female = 3.9 ± 1.7; 95% CI = 3.5-4.2; male = 4.6 ± 2.1; 95% CI = 4.1-4.9), 
+particularly in individuals aged ≥ 70 years. Significant associations were found between mortality rates and pollution levels for DCS (p = 0.019), 
+IHD (p = 0.025), and CBVD (p = 0.002) in the 50-69-year age group when comparing moderately and extremely polluted areas. Intermediate/
+high social vulnerability was identified in 71% of neighborhoods, with an increasing socioenvironmental gradient linking higher vulnerability to 
+higher PM2.5 concentrations (R = 0.354; p = 0.001).
+
+Conclusion:  Mean  PM2.5  concentrations  in  the  neighborhoods  of  Rio  de  Janeiro  exceeded  the  World  Health  Organization’s  recommended 
+standard by a factor of four. Mortality from DCS is significantly higher and occurs earlier in areas with high or extreme levels of pollution.
+
+Keywords: Mortality; Cardiovascular Diseases; Air Pollution; Geographic Mapping.
+
+Full texts in English - https://abccardiol.org/en/
+
+Figura Central: Impacto da Poluição do Ar por MP2,5 na Mortalidade por Doenças do Aparelho Circulatório 
+nos Bairros do Município do Rio de Janeiro (2000-2019)
+
+Poluição do ar e óbitos por DAC
+
+Nove em cada 10 residentes dos 
+bairros estão expostos a níveis 
+altos e extremos de poluição do 
+ar por MP2,5
+
+As concentrações de MP2,5 
+nos bairros são quatro vezes 
+superiores ao nível recomendado 
+pela OMS, 2000-2019
+
+Homens tem taxas de óbitos por 
+DAC, DIC e DCBV maiores que as 
+mulheres em qualquer nível de 
+poluição do ar
+
+Em 71% dos bairros observa-
+se vulnerabilidade social 
+intermediária/alta e gradiente 
+socioambiental crescente 
+(quanto maior o IVS, maior a 
+concentração de MP2,5)
+
+As taxas de óbitos por DAC, DIC e DCBV aumentam 
+progressivamente à medida que os níveis de poluição 
+passam de moderados para extremos
+
+24% dos  
+óbitos por DAC
+
+20% dos  
+óbitos por DIC
+
+38% dos  
+óbitos por DCBV
+
+Arq Bras Cardiol. 2026; 123(1):e20250459
+
+Mulheres ≥ 70 anos tem taxas 
+de óbitos por DAC, DIC e DCBV 
+maiores que homens em 
+qualquer nível de poluição do ar
+
+Média de idade ao óbito em indivíduos ≥ 20 anos, em ambos os sexos, 
+segundo níveis de MP2,5
+72,4 72,3 72,7
+
+72,6 72,8
+
+73
+
+70,3 69,8 70,4
+
+e
+d
+a
+d
+I
+e
+d
+a
+i
+d
+é
+M
+
+74
+
+72
+
+70
+
+68
+
+66
+
+64
+
+62
+
+60
+
+Poluição moderada (PoM)
+
+Poluição alta (PoA)
+
+Poluição extrema (PoE)
+
+Diferença da média de idade ao óbito entre bairros com níveis de MP2,5 
+moderados e extremos
+
+4,0
+
+2,8
+
+3,4
+
+2,6
+
+3,9
+
+1,6
+
+a
+d
+i
+v
+e
+d
+s
+o
+n
+a
+e
+d
+a
+d
+r
+e
+P
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+DAC
+
+DIC
+
+DCBV
+
+Homens Mulheres
+
+Taxa de óbitos ajustada em indivíduos ≥ 20 anos, por sexo, causa e 
+níveis de MP2,5
+
+3,72
+
+3,18
+
+b
+a
+h
+0
+0
+0
+,
+1
+
+s
+o
+t
+i
+b
+ó
+
+a
+x
+a
+T
+
+5
+4,5
+4
+3,5
+3
+2,5
+2
+1,5
+1
+0,5
+0
+
+4,29
+
+3,68
+
+4,55
+
+3,91
+
+1,76
+
+1,26
+
+0,8 0,8
+
+1,96
+
+1,46
+
+1,0 0,9
+
+2,01
+
+1,49
+
+1,1 1,0
+
+DAC
+
+DIC
+Poluição moderada (PoM)
+
+DCBV
+
+DCBV
+
+DAC
+
+DIC
+Poluição alta (PoA)
+Homens Mulheres
+
+DCBV
+DIC
+DAC
+Poluição extrema (PoE)
+
+Níveis de poluição do ar nos bairros do município do Rio de Janeiro, taxas de mortalidade por DAC, DIC e DCBV (por 1.000 habitantes) em 
+indivíduos ≥ 20 anos, precocidade dos óbitos e IVS, 2000-2019. DAC: doenças do aparelho circulatório; DCBV: doenças cerebrovasculares; 
+DIC: doenças isquêmicas do coração; IVS: índice de vulnerabilidade social; MP2,5 : material particulado fino com diâmetro aerodinâmico 
+≤ 2,5 μm; OMS: Organização Mundial de Saúde; PoA: poluição alta; PoE: poluição extrema; PoM: poluição moderada.
+
+Introdução
+
+As doenças do aparelho circulatório (DAC), que incluem 
+as  doenças  isquêmicas  do  coração  (DIC)  e  as  doenças 
+cerebrovasculares  (DCBV),  são  a  principal  causa  de 
+mortalidade  global,  respondendo  por  34%  dos  óbitos  em 
+2019. Juntas, DIC e DCBV corresponderam a 85% das mortes 
+por DAC, com três quartos desses óbitos ocorrendo em países 
+de baixa e média renda.1
+
+A  incidência  de  DAC  aumenta  com  a  idade,  sendo 
+influenciada por fatores de risco clássicos, como hipertensão, 
+
+tabagismo,  alimentação  e  sedentarismo,  e  por  fatores 
+emergentes, como a poluição atmosférica e as desigualdades 
+sociais, que antecipam a idade dos óbitos.2
+
+A poluição atmosférica é um problema de saúde pública 
+global  e  urgente;  em  2021,  o  Global  Burden  of  Disease 
+atribuiu  a  ela  8,1  milhões  de  óbitos,  classificando-a 
+como  o  segundo  maior  fator  de  risco  para  mortalidade 
+e  o  primeiro  para  anos  de  vida  perdidos  ajustados  por 
+incapacidade  (235,9  milhões),  superada  apenas  pela 
+hipertensão arterial.3-5
+
+2
+
+Arq Bras Cardiol. 2026; 123(1):e20250459 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Moura et al.
+Mortalidade Cardiovascular e Poluição Atmosférica
+
+Artigo Original
+
+No  Brasil,  a  concentração  média  anual  de  material 
+particulado fino com diâmetro aerodinâmico ≤ 2,5 μm (MP2,5) 
+atinge 12 μg/m3, excedendo em 140% o limite recomendado 
+pela Organização Mundial da Saúde (OMS) (5,0 μg/m3), que 
+alerta para a inexistência de níveis seguros de exposição. DIC 
+e DCBV lideram o percentual de óbitos atribuíveis ao MP2,5.4,6
+O monitoramento remoto por satélite tem sido utilizado 
+para a vigilância da poluição atmosférica, oferecendo ampla 
+cobertura geográfica e longas séries temporais, o que o torna 
+particularmente útil em estudos de agravos à saúde.7
+
+Apesar  das  evidências  sobre  poluição  e  saúde 
+cardiovascular, persistem lacunas na literatura, especialmente 
+em recortes locais, como o nível de bairros. Não há relatos 
+que especifiquem as taxas de óbitos por DAC, DIC e DCBV 
+em diferentes níveis de MP2,5 nos 164 bairros do município 
+do Rio de Janeiro. Assim, este estudo investiga a associação 
+entre  as  taxas  de  mortalidade  por  DAC,  DIC  e  DCBV  na 
+população com idade ≥ 20 anos, segundo níveis de MP2,5 
+estimados por satélite nos 164 bairros do município do Rio 
+de Janeiro, de 2000 a 2019.
+
+Métodos
+
+Delineamento do estudo
+
+Estudo ecológico de séries espaço-temporais, com desenho 
+de coorte retrospectiva, utilizando bancos de dados de óbitos 
+e de poluição atmosférica dos bairros do município do Rio 
+de Janeiro, com abordagem analítica, abrangendo o período 
+de 2000 a 2019.
+
+Fontes de dados: poluição atmosférica e mortalidade
+
+O poluente atmosférico analisado foi o MP2,5, mensurado 
+em μg/m3. Os dados foram extraídos das bases do Atmospheric 
+Composition Group, obtidos por sensoriamento remoto via 
+satélite. Foram utilizadas as médias das concentrações anuais 
+de MP2,5 para os 164 bairros no período de 2000 a 2019.
+
+Os 164 bairros foram categorizados em três estratos, de 
+acordo com os níveis de concentração de MP2,5 ao longo dos 
+20 anos. A categorização utilizou como referência o padrão 
+final proposto pelo Conselho Nacional do Meio Ambiente, 
+que considera concentrações anuais de MP2,5 até 10 μg/m3 
+como “seguras”. Para a análise da exposição, os estratos foram 
+definidos da seguinte forma: poluição moderada (PoM), com 
+concentrações anuais ≤ 12,5 μg/m3; poluição alta (PoA), com 
+concentrações anuais de 12,6-15,0 μg/m3; e poluição extrema 
+(PoE),  com  concentrações  anuais  >  15,1  μg/m3.  Após  essa 
+classificação, 107 bairros foram classificados como PoE, 43 
+como PoA e 14 como PoM.
+
+Para as análises socioeconômicas, utilizou-se o índice de 
+vulnerabilidade social (IVS) referente ao ano de 2010 para 
+os  164  bairros,  disponibilizado  pelo  Instituto  de  Pesquisa 
+Econômica Aplicada.
+
+Os dados de óbitos por DAC, DIC e DCBV (linhas A, B, 
+C e D e causa básica de óbito) foram obtidos no Sistema de 
+Informação sobre Mortalidade, vinculado ao Departamento 
+de  Informação  e  Informática  do  Sistema  Único  de  Saúde, 
+incluindo  indivíduos  de  ambos  os  sexos,  com  idade  ≥  20 
+
+anos,  residentes  nos  164  bairros  monitorados  por  satélite 
+para  MP2,5,  no  período  de  2000  a  2019.  Foram  excluídos 
+bairros com dados ausentes e óbitos com códigos de causa 
+de morte inexistentes.
+
+A  codificação  diagnóstica  seguiu  a  Classificação 
+Internacional de Doenças, 10ª Revisão: DAC (I00-I99), DIC 
+(I20-I25,  I50)  e  DCBV  (I60-I69).  A  análise  dos  óbitos  foi 
+realizada em três etapas de filtragem: por código do município 
+do Rio de Janeiro, por código de bairro e por causa de óbito 
+(DAC, DIC, DCBV).
+
+A  pesquisa  foi  aprovada  por  um  comitê  de  ética  em 
+
+pesquisa (CAAE 72977223.1.0000.8044).
+
+Análise estatística
+
+Os três estratos de concentração de MP2,5 nos 164 bairros 
+foram  descritos  quanto  às  concentrações  médias  anuais, 
+máximas, mínimas e dispersão ao longo dos 20 anos. Foram 
+calculadas as médias anuais e a média geral de MP2,5 para 
+todos os bairros. Utilizou-se a correlação de Pearson entre as 
+médias de MP2,5 e o IVS, bem como a estratificação do IVS 
+segundo os estratos de MP2,5.
+
+As taxas de mortalidade por 1.000 habitantes/bairro para 
+óbitos  por  DAC,  DIC  e  DCBV,  em  indivíduos  ≥  20  anos 
+(2000-2019), foram ajustadas por idade. Esse ajuste foi obtido 
+ponderando-se as taxas brutas em cada faixa etária (20-49, 
+50-69 e ≥ 70 anos) pelo respectivo percentual populacional 
+e somando-se os resultados.
+
+As taxas anuais de óbitos por DAC, DIC e DCBV, ajustadas 
+por faixa etária (≥ 20 anos), foram analisadas ao longo de 
+20  anos,  segundo  níveis  de  MP2,5,  sexo  e  faixas  etárias.  A 
+população por bairro, para o período de 2010 a 2019, foi 
+estimada  por  interpolação  linear  com  base  nos  censos  de 
+2000 e 2010.
+
+A  normalidade  das  variáveis  contínuas  foi  avaliada  pelo 
+teste  de  Shapiro-Wilk.  Para  a  comparação  das  médias  de 
+idade e das taxas de óbitos ajustadas entre os sexos (dados 
+paramétricos), utilizou-se o teste t de Student para amostras 
+independentes. O nível de significância adotado foi de 5%. 
+A análise dos tipos e das taxas de óbitos ajustadas por faixa 
+etária e estratos de MP2,5 empregou ANOVA de uma via com 
+pós-teste de Tukey.
+
+As análises estatísticas, figuras e mapas foram produzidos 
+nos softwares RStudio (versão 4.3.2) e Sistema de Informação 
+Geográfica QGIS (versão 3.44.0).
+
+Resultados
+
+Dados demográficos e de concentração de MP2,5
+
+Dos 164 bairros do município do Rio de Janeiro analisados, 
+14 foram classificados como PoM, com concentração média 
+de 11,6 ± 0,6 μg/m3 de MP2,5; 43 como PoA, com 14,2 ± 
+0,6 μg/m3; e 107 como PoE, com 16,7 ± 0,7 μg/m3. Nenhum 
+bairro apresentou concentração média anual de MP2,5 inferior 
+a 10,0 μg/m3.
+
+A população média anual foi de 4,7 milhões de habitantes, 
+sendo que residentes em áreas de PoE foram 7 vezes mais 
+
+3
+
+Arq Bras Cardiol. 2026; 123(1):e20250459
+
+Moura et al.
+Mortalidade Cardiovascular e Poluição Atmosférica
+
+Artigo Original
+
+numerosos do que aqueles em áreas de PoM. A distribuição 
+populacional  por  estrato  de  poluição  foi  a  seguinte:  PoM 
+(14  bairros,  8,6%  dos  bairros  e  8,6%  da  população),  PoA 
+(43 bairros, 26,2% dos bairros e 31,1% da população) e PoE 
+(107 bairros, 65,2% dos bairros e 60,3% da população). A 
+densidade populacional média anual por bairro apresentou 
+variação entre os estratos.
+
+Ao  longo  dos  20  anos  de  acompanhamento,  as 
+concentrações de MP2,5 aumentaram em todos os estratos: 
+10,5% em PoM, 5% em PoA e 9% em PoE, com médias anuais 
+variando de 9,6 μg/m3 (2001) a 23,0 μg/m3 (2009).
+
+As médias do IVS evidenciaram um gradiente crescente: 
+bairros classificados como PoM apresentaram IVS de 0,16, 
+enquanto PoA e PoE exibiram valores mais elevados (0,21 
+e  0,28,  respectivamente).  Observou-se  um  gradiente 
+socioambiental,  em  que  maior  vulnerabilidade  social  se 
+associou a maiores concentrações de MP2,5 (R = 0,354; 
+p = 0,001).
+
+de  concentração  média  anual  de  MP2,5.  A  maioria  dos 
+bairros (65%) foi classificada como PoE, 26% como PoA e 
+9% como PoM.
+
+Ao longo dos 20 anos analisados, toda a população média 
+anual  estimada  (4.699.224  habitantes)  esteve  exposta  a 
+níveis não saudáveis de MP2,5. Desse total, 60,3% (2.831.761 
+habitantes)  residiram  em  áreas  classificadas  como  PoE; 
+ao  incluir  os  bairros  PoA,  esse  percentual  atinge  91%  da 
+população exposta a níveis críticos de poluição atmosférica 
+(Figura Central).
+
+A Figura 1 evidencia que os bairros classificados como 
+PoM encontram-se geograficamente circundados por áreas 
+de PoA e PoE. As menores concentrações de MP2,5 foram 
+observadas  na  zona  central  (Alto  da  Boa  Vista,  Grajaú, 
+Tijuca, Cosme Velho e Laranjeiras) e em parte da zona sul 
+(São  Conrado,  Gávea  e  Jardim  Botânico).  Em  contraste, 
+bairros como Urca, Ipanema, Lagoa e Leblon apresentaram 
+classificações correspondentes à PoA.
+
+Distribuição geográfica dos estratos de poluição (MP2,5) 
+nos bairros do município do Rio de Janeiro
+
+A  Figura  1  apresenta  a  distribuição  espacial  dos  164 
+bairros do município do Rio de Janeiro segundo os estratos 
+
+Óbitos por doenças cardiovasculares
+
+No período de 20 anos, as DAC foram responsáveis por 
+37,1% dos óbitos, totalizando 983.692 indivíduos com idade 
+≥ 20 anos. Entre essas causas, as DIC representaram 15,9% 
+
+Município do Rio de Janeiro
+
+Bairros
+Média de MP2,5
+
+PoM
+
+PoA
+
+PoE
+
+Zonas
+
+Norte
+
+Sul
+
+Oeste
+
+Central
+
+Figura 1 – Distribuição espacial dos estratos de concentração média anual de MP2,5 nos bairros do município do Rio de Janeiro, 
+2000-2019. Disponível em: https://sites.wustl.edu/acag/datasets/surface-pm2-5/#V4.GL.03.
+
+4
+
+Arq Bras Cardiol. 2026; 123(1):e20250459Moura et al.
+Mortalidade Cardiovascular e Poluição Atmosférica
+
+Artigo Original
+
+da  mortalidade  proporcional,  superando  as  DCBV,  que 
+corresponderam a 9,7% (Tabela 2).
+
+Nos bairros classificados como PoE, a média de idade ao 
+óbito por causas cardiovasculares foi mais precoce em ambos 
+os sexos, quando comparada à observada em bairros PoM. 
+Para o sexo masculino, as diferenças (PoE – PoM) foram de 
+– 1,6 anos para DAC, – 2,8 anos para DIC e – 3,4 anos para 
+DCBV. Para o sexo feminino, as diferenças foram de – 3,9 
+anos para DAC, – 4,0 anos para DIC e – 2,6 anos para DCBV, 
+sugerindo  impacto  diferenciado  da  poluição  na  idade  dos 
+óbitos  segundo  o  sexo  (Figura  Central).  Os  óbitos  por  DIC 
+foram mais precoces do que aqueles por DCBV dentro de 
+um mesmo estrato de MP2,5 (Tabela 2).
+
+A análise da idade ao óbito, segundo sexo, causa e estrato 
+de MP2,5, evidenciou diferença estatisticamente significativa 
+entre  homens  e  mulheres  para  todas  as  DAC  e  níveis  de 
+poluição, com exceção das DCBV em bairros PoM. Óbitos 
+masculinos  foram  sistematicamente  mais  precoces  que  os 
+femininos,  com  maiores  diferenças  em  DIC  (6,5  anos)  e 
+menores em DCBV (3,1 anos).
+
+As  taxas  de  óbitos  ajustadas  por  1.000  habitantes  (≥ 
+20  anos,  ambos  os  sexos)  por  DAC,  DIC  e  DCBV  foram 
+consistentemente  menores  em  bairros  com  PoM  de  MP2,5, 
+quando comparadas às áreas classificadas como PoA e PoE 
+(Tabela 3). Observou-se aumento relativo das taxas de óbitos 
+de PoM para PoE de 24% para DAC, 20% para DIC e 38% 
+para DCBV (Figura Central).
+
+As maiores diferenças absolutas entre os sexos nas taxas 
+de óbitos por DAC foram registradas em bairros com PoE (0,7 
+óbito  por  1.000  habitantes).  O  sexo  masculino  apresentou 
+taxas de óbitos mais elevadas para DAC e DIC. Para DCBV, 
+entretanto,  as  taxas  foram  semelhantes  entre  os  sexos, 
+sobretudo em bairros com PoM. A análise estatística confirmou 
+diferenças significativas nas taxas de óbitos entre os sexos para 
+DAC e DIC, mas não para DCBV (Tabela 3).
+
+A  análise  por  ANOVA,  seguida  de  teste  post-hoc,  não 
+identificou  efeito  estatisticamente  significativo  dos  estratos 
+
+de MP2,5 nas taxas de óbitos por DAC (p = 0,072) e por DIC 
+(p = 0,144). Contudo, observou-se efeito significativo para 
+DCBV (p = 0,027), especificamente entre bairros classificados 
+como PoM e PoE (post-hoc p = 0,039), conforme apresentado 
+na Tabela 3.
+
+A Tabela 4 detalha as taxas de óbitos por 1.000 habitantes 
+(ajustadas por idade ≥ 20 anos), estratificadas por faixa etária 
+e  sexo,  evidenciando  aumento  progressivo  das  taxas  com 
+o avanço da idade, em todas as causas, estratos de MP2,5 e 
+em  ambos  os  sexos,  com  transição  de  valores  menores  no 
+feminino para maiores no masculino.
+
+Identificaram-se  diferenças  significativas  entre  os  sexos, 
+principalmente  nas  faixas  etárias  de  20-49  e  50-69  anos, 
+com taxas consistentemente superiores no sexo masculino. 
+Essa disparidade foi mais acentuada em PoM para a faixa de 
+50-69 anos, na qual a taxa masculina representou aumento 
+de 165% em relação à feminina (taxa feminina = 0,68). Em 
+contraste, para a faixa ≥ 70 anos, as taxas femininas foram 
+maiores ou semelhantes às masculinas em todas as causas e 
+estratos de MP2,5.
+
+As  taxas  de  óbitos  por  DIC  foram  menores  entre  as 
+mulheres, mas a diferença entre os sexos aumentou com a 
+elevação  dos  níveis  de  MP2,5.  Para  DCBV,  embora  as  taxas 
+masculinas  na  faixa  de  50-69  anos  fossem  inferiores  às 
+femininas, essa relação se inverteu nas demais faixas etárias, 
+com maior magnitude no sexo masculino.
+
+A inferência estatística pelo teste de ANOVA, seguida de 
+post-hoc, não demonstrou efeito significativo dos níveis de 
+MP2,5 nas taxas de óbitos das faixas etárias 20-49 e ≥ 70 
+anos.  Entretanto,  observou-se  significância  estatística  para 
+DAC (p  = 0,019),  DIC (p = 0,025)  e  DCBV  (p  = 0,002) 
+na  faixa  de  50-69  anos,  comparando  bairros  classificados 
+como PoM e PoE.
+
+A  Figura  2  demonstra  que  as  taxas  ajustadas  de  óbitos 
+por DAC, DIC e DCBV em indivíduos com idade ≥ 20 anos 
+apresentaram tendência de declínio contínuo entre 2000 e 
+2019,  independentemente  do  estrato  de  MP2,5.  Os  bairros 
+
+Tabela 1 – População residente (≥ 20 anos) segundo os estratos de concentração de MP2,5 nos bairros do município do Rio de 
+Janeiro, 2000-2019
+
+Estrato por nível de MP2,5
+
+Nº de 
+bairros*
+
+IVS 
+médio
+
+Média anual da 
+população (IC 95%)**
+
+População 
+mínima***
+
+População 
+máxima***
+
+População 
+total****
+
+PoM (≤ 12,5 µg/m3)
+
+PoA (12,6-15,0 µg/m3)
+
+PoE (≥ 15,1 µg/m3)
+
+14
+
+43
+
+107
+
+0,16
+
+0,21
+
+0,28
+
+28.858 
+(10.093-47.623)
+
+34.034 
+(24.237-43.830)
+
+26.465 
+(20.217-32.713)
+
+532
+
+96
+
+863
+
+132.537
+
+404.009
+
+140.714
+
+1.463.454
+
+231.797
+
+2.831.761
+
+IC: intervalo de confiança; IVS: índice de vulnerabilidade social; MP2,5: material particulado fino com diâmetro aerodinâmico 
+≤ 2,5 μm; PoA: poluição alta; PoE: poluição extrema; PoM: poluição moderada. *Número de bairros do município do Rio de 
+Janeiro.  **Média  anual  da  população  residente  ≥  20  anos  em  cada  estrato  de  MP2,5 ,  com  IC  95%.  ***População  mínima  e 
+máxima:  menor  e  maior  média  anual  de  habitantes  ≥  20  anos  residentes  por  bairro  em  cada  estrato.  ****População  total: 
+soma das médias anuais de população dos bairros que compõem cada estrato de MP2,5 . Fonte: Sistema de Informação sobre 
+Mortalidade/Departamento de Informação e Informática do Sistema Único de Saúde.
+
+5
+
+Arq Bras Cardiol. 2026; 123(1):e20250459
+
+Moura et al.
+Mortalidade Cardiovascular e Poluição Atmosférica
+
+Artigo Original
+
+Tabela 2 – Óbitos por DAC, DIC e DCBV (idade ≥ 20 anos) segundo estratos de concentração de MP2,5, sexo, mortalidade 
+proporcional e médias de idade ao óbito nos bairros do município do Rio de Janeiro, 2000-2019
+
+Causa 
+de 
+óbito
+
+Nível 
+de 
+MP2,5
+
+Bairros por 
+estrato de 
+MP2,5 (nº)*
+
+Nº de 
+óbitos 
+(total 
+M + F)
+
+Mortalidade 
+proporcional 
+(total  
+M + F)**
+
+Média idade 
+óbitos  
+(total M + F)  
+± DP***
+
+Média idade 
+óbitos (F) ± 
+DP (IC 95%)****
+
+Média idade 
+óbitos (M) ± 
+DP (IC 95%)†
+
+Diferença 
+de idade 
+dos óbitos 
+(F – M)‡
+
+PoM
+
+DAC
+
+PoA
+
+14
+
+43
+
+32.540
+
+0,364
+
+72,6 ± 5,4
+
+115.708
+
+0,373
+
+72,4 ± 4,0
+
+PoE
+
+107
+
+216.946
+
+0,370
+
+70,3 ± 3,2
+
+PoM
+
+DIC
+
+PoA
+
+14
+
+43
+
+14.676
+
+0,161
+
+72,8 ± 5,1
+
+51.057
+
+0,163
+
+72,3 ± 4,1
+
+PoE
+
+107
+
+91.025
+
+0,157
+
+69,8 ± 7,5
+
+PoM
+
+DCBV
+
+PoA
+
+14
+
+43
+
+7.473
+
+0,086
+
+73,0 ± 5,0
+
+28.944
+
+0,092
+
+72,7 ± 4,0
+
+PoE
+
+107
+
+59.210
+
+0,100
+
+70,4 ± 7,5
+
+75,9 ± 5,5 
+(72,8-79,1)
+
+75,6 ± 4,2 
+(74,3-76,9)
+
+72,0 ± 10,4 
+(70,0-74,0)
+
+76,5 ± 5,2 
+(73,5-79,5)
+
+74,1 ± 12,2 
+(70,3-77,8)
+
+72,5 ± 10,5 
+(70,5-74,5)
+
+74,4 ± 5,5 
+(71,3-77,5)
+
+75,2 ± 4,0 
+(74,0-76,5)
+
+71,8 ± 10,5 
+(69,8-73,8)
+
+69,8 ± 4,7 
+(67,1-72,6)
+
+69,9 ± 3,5 
+(68,8-71,0)
+
+68,2 ± 2,7 
+(67,6-68,7)
+
+70,0 ± 4,4 
+(67,4-72,5)
+
+69,7 ± 3,7 
+(68,6-70,9)
+
+67,2 ± 7,1 
+(65,9-68,6)
+
+71,3 ± 4,4 
+(68,7-73,8)
+
+70,8 ± 4,0 
+(69,5-72,0)
+
+67,9 ± 9,7 
+(66,0-69,8)
+
+6,1
+
+5,7
+
+3,8
+
+6,5
+
+4,4
+
+5,3
+
+3,1
+
+4,4
+
+3,9
+
+Valor-p§
+
+0,002
+
+< 0,001
+
+< 0,001
+
+0,002
+
+< 0,001
+
+< 0,001
+
+0,125
+
+< 0,001
+
+< 0,001
+
+DAC:  doenças  do  aparelho  circulatório;  DCBV:  doenças  cerebrovasculares;  DIC:  doenças  isquêmicas  do  coração;  DP:  desvio 
+padrão; F: feminino; IC: intervalo de confiança; M: masculino; MP2,5: material particulado fino com diâmetro aerodinâmico ≤ 2,5 μm; 
+PoA: poluição alta; PoE: poluição extrema; PoM: poluição moderada. Nº de óbitos: número total de óbitos por DAC, DIC e DCBV em 
+20 anos. *Número de bairros do município do Rio de Janeiro em cada estrato de MP2,5. **Mortalidade proporcional: proporção de 
+óbitos por DAC, DIC e DCBV em relação ao número total de óbitos por todas as causas em 20 anos (nº de óbitos por causa / nº total 
+de óbitos por todas as causas no período). ***Média da idade ao óbito por causa específica e estrato de poluição, considerando 
+ambos os sexos, com DP. ****Média da idade ao óbito para mulheres (F) por causa específica e estrato de MP2,5, com DP e IC 
+95%. †Média da idade ao óbito para homens (M) por causa específica e estrato de MP2,5, com DP e IC 95%. ‡Diferença entre as 
+médias de idade ao óbito entre mulheres e homens (F – M). §Valor-p referente ao teste de comparação das idades ao óbito entre 
+os sexos (significância estatística considerada para p ≤ 0,05).
+
+classificados  como  PoM  registraram,  de  forma  consistente, 
+as menores taxas anuais de mortalidade para as três causas 
+ao  longo  dos  20  anos  analisados.  Já  os  estratos  PoA  e  PoE 
+alternaram-se  quanto  às  maiores  taxas  anuais,  indicando 
+variação  temporal  na  magnitude  da  mortalidade  associada 
+aos maiores níveis de poluição.
+
+A  Figura  3  apresenta  a  distribuição  espacial  das  taxas 
+médias de óbitos por DAC, DIC e DCBV (2000-2019) nos 
+164  bairros  do  município  do  Rio  de  Janeiro.  As  menores 
+taxas  concentram-se  predominantemente  na  Zona  Sul  e 
+em parte da Zona Oeste (Botafogo, Copacabana, Ipanema, 
+Lagoa, Leblon, Barra da Tijuca). Em contraste, bairros como 
+Vidigal  e  Rocinha,  situados  na  mesma  região,  exibiram 
+valores  intermediários.  As  maiores  taxas  foram  observadas 
+na  Zona  Oeste  (Santa  Cruz,  Campo  Grande)  e  na  Zona 
+Norte  (Bonsucesso,  Ramos,  Penha,  Manguinhos,  Benfica  e 
+São Cristóvão), revelando um padrão espacial heterogêneo 
+e marcado por forte desigualdade intraurbana.
+
+Discussão
+
+Embora a poluição do ar seja um fenômeno amplamente 
+distribuído, sua toxicidade varia conforme o local, o que 
+torna  essencial  a  análise  em  microáreas  dos  bairros  do 
+município do Rio de Janeiro. Neste estudo, investigou-se 
+a  relação  entre  poluição  atmosférica  e  mortalidade  por 
+DAC em uma população adulta de 4.699.224 indivíduos 
+ao longo de 20 anos.8-10
+
+As  concentrações  médias  de  MP2,5  nos  164  bairros 
+analisados excedem amplamente o limite recomendado pela 
+OMS (5 μg/m3). Cerca de 91% da população reside em áreas 
+classificadas como PoA ou PoE, exposta a níveis até quatro 
+vezes superiores ao padrão internacional. Mesmo nos bairros 
+classificados  como  PoM,  as  concentrações  ultrapassam  o 
+dobro do limite considerado seguro, evidenciando violações 
+significativas e demandando intervenções urgentes. As maiores 
+concentrações ocorreram em áreas urbanas densas (Vigário 
+Geral e Caju: 17,3-21,2 μg/m3), enquanto as menores foram 
+
+6
+
+Arq Bras Cardiol. 2026; 123(1):e20250459Moura et al.
+Mortalidade Cardiovascular e Poluição Atmosférica
+
+Artigo Original
+
+Tabela 3 – Taxas de mortalidade ajustadas por idade (DAC, DIC e DCBV) segundo estratos de concentração de MP2,5 e sexo nos 
+bairros do município do Rio de Janeiro, 2000-2019
+
+Causa 
+do 
+óbito
+
+Nível 
+de 
+MP2,5
+
+Bairros por 
+estrato de 
+MP2,5 (nº)*
+
+Taxa média total 
+(F + M) de óbitos 
+1.000/habitantes 
+± DP**
+
+Taxas médias 
+de óbitos 1.000/
+habitantes – 
+sexo F***
+
+Taxas médias 
+de óbitos 1.000/
+habitantes – 
+sexo M****
+
+Diferenças 
+absolutas 
+entre sexos 
+(F – M)†
+
+Diferença 
+percentual 
+relativa 
+(M – F)/F‡
+
+DAC
+
+DIC
+
+DCBV
+
+PoM
+
+PoA
+
+PoE
+
+PoM
+
+PoA
+
+PoE
+
+PoM
+
+PoA
+
+PoE
+
+14
+
+43
+
+107
+
+14
+
+43
+
+107
+
+14
+
+43
+
+107
+
+3,4 ± 0,6
+
+3,2 ± 0,6 (2,8-3,5)
+
+3,7 ± 0,6 (3,3-4,1)
+
+4,0 ± 1,8
+
+3,7 ± 1,6 (3,1-4,2)
+
+4,3 ± 1,9 (3,6-4,8)
+
+4,2 ± 1,8
+
+3,9 ± 1,7 (3,5-4,2)
+
+4,6 ± 2,1 (4,1-4,9)
+
+1,5 ± 0,2
+
+1,3 ± 0,2 (1,1-1,4)
+
+1,8 ± 0,3 (1,5-1,9)
+
+1,7 ± 0,9
+
+1,5 ± 0,8 (1,2-1,7)
+
+2,0 ± 0,8 (1,6-2,2)
+
+1,8 ± 0,8
+
+1,5 ± 0,6 (1,3-1,6)
+
+2,0 ± 0,9 (1,8-2,1)
+
+0,8 ± 0,2
+
+0,8 ± 0,2 (0,6-0,9)
+
+0,8 ± 0,2 (0,6-0,9)
+
+1,0 ± 0,5
+
+0,9 ± 0,5 (0,8-1,1)
+
+1,0 ± 0,6 (0,8-1,1)
+
+1,1 ± 0,5
+
+1,0 ± 0,5 (0,9-1,1)
+
+1,1 ± 0,5 (1,0-1,2)
+
+0,5
+
+0,6
+
+0,7
+
+0,5
+
+0,5
+
+0,5
+
+0,0
+
+0,1
+
+0,1
+
+15,6
+
+16,2
+
+17,9
+
+38,5
+
+33,3
+
+33,3
+
+0,0
+
+11,1
+
+10,0
+
+Valor-p§
+
+0,044
+
+0,033
+
+0,004
+
+< 0,001
+
+< 0,001
+
+< 0,001
+
+0,874
+
+0,694
+
+0,215
+
+DAC:  doenças  do  aparelho  circulatório;  DCBV:  doenças  cerebrovasculares;  DIC:  doenças  isquêmicas  do  coração;  DP:  desvio 
+padrão; F: feminino; IC: intervalo de confiança; M: masculino; MP2,5: material particulado fino com diâmetro aerodinâmico ≤ 2,5 μm; 
+PoA: poluição alta; PoE: poluição extrema; PoM: poluição moderada. *Número de bairros do município do Rio de Janeiro em cada 
+estrato de MP2,5. **Taxa média anual de óbitos por 1.000 habitantes, ajustada por idade, considerando ambos os sexos (F + M) 
+ao longo de 20 anos. A taxa ajustada é calculada a partir da taxa bruta (nº total de óbitos ≥ 20 anos por causa específica no bairro 
+/ população ≥ 20 anos) × 1.000, ponderada pela distribuição etária, com bairros agrupados por estrato de MP2,5. ***Taxa média 
+anual de óbitos ajustada por idade para o sexo F, calculada para o período de 20 anos. ****Taxa média anual de óbitos ajustada por 
+idade para o sexo M, calculada para o período de 20 anos. †Diferença absoluta entre as taxas de óbitos ajustadas dos sexos F e M 
+(F – M). ‡Diferença percentual relativa entre as taxas de óbitos dos sexos (M – F/F), expressa em %. §Valor-p referente ao teste de 
+comparação das taxas de óbitos ajustadas entre os sexos; adotou-se significância estatística para p ≤ 0,05.
+
+observadas em regiões mais afastadas, como Guaratiba, e em 
+bairros da Zona Sul, revelando inequidades socioespaciais na 
+distribuição do poluente.8,11
+
+A disposição espacial da poluição atmosférica segue um 
+gradiente progressivo (PoM–PoA–PoE), que se intensifica do 
+litoral em direção ao interior, influenciado por características 
+topográficas e climáticas locais. Áreas com maior cobertura 
+vegetal e menor fluxo veicular, como Floresta da Tijuca e Jardim 
+Botânico, apresentaram menores concentrações,8,9 enquanto 
+regiões  litorâneas  densamente  povoadas  (Copacabana, 
+Ipanema-Leblon, Urca, Flamengo-Botafogo e Barra da Tijuca), 
+apesar  de  ventiladas,  foram  classificadas  majoritariamente 
+como  PoA.  A  Figura  1  evidencia  que  bairros  PoM  estão 
+circundados por áreas PoA, mantendo distância relativa das 
+zonas PoE.
+
+A idade média dos óbitos por DAC, DIC e DCBV foi mais 
+precoce em bairros de PoE em comparação aos de PoM, em 
+ambos  os  sexos.  Essa  antecipação  foi  mais  acentuada  nos 
+óbitos  masculinos  por  DCBV  (–  3,4  anos)  e  femininos  por 
+DIC (– 4,0 anos), sugerindo impacto diferencial da poluição 
+conforme o sexo e a causa de morte. De modo geral, homens 
+apresentaram óbitos mais precoces que mulheres para DAC 
+nos diferentes estratos de MP2,5 (exceto DCBV em PoM), com 
+maior diferença registrada para DIC (6,5 anos) e menor para 
+DCBV (3,1 anos).
+
+A  poluição  por  MP2,5  está  associada  à  mortalidade 
+cardiovascular  e  pode  reduzir  a  expectativa  de  vida 
+saudável.  Os  achados  indicam  aumento  dos  óbitos  por 
+DAC, especialmente por DIC predominantemente no sexo 
+masculino, à medida que se elevam as concentrações de 
+MP2,5. As taxas de óbitos ajustadas (≥ 20 anos) aumentam 
+com a idade, mas permanecem consistentemente menores 
+em bairros com PoM em relação aos de PoE.12-14
+
+As  taxas  de  mortalidade  foram  maiores  no  sexo 
+masculino,  sobretudo  nas  faixas  de  50-69  anos  e  em 
+áreas  de  PoE.  No  entanto,  entre  indivíduos  ≥  70  anos, 
+a influência da poluição sobre a mortalidade mostrou-se 
+menos linear, possivelmente devido à maior presença de 
+múltiplos diagnósticos.15 A diferença entre os sexos foi mais 
+evidente  para  DIC  (taxas  femininas  <  masculinas),  com 
+amplificação dessa discrepância conforme o aumento do 
+MP2,5 na faixa de 50-69 anos.16,17
+
+Embora  as  taxas  de  mortalidade  sejam  menores  em 
+bairros PoM, observou-se redução percentual importante 
+dos  óbitos  por  DAC  (43%),  DIC  (32%)  e  DCBV  (110%) 
+no  período  estudado.  Entretanto,  os  níveis  elevados  de 
+poluição podem limitar ganhos adicionais em expectativa 
+de vida saudável.18
+
+A Figura 3 ilustra que as menores taxas de mortalidade 
+por  DAC,  DIC  e  DCBV  concentram-se  em  bairros  com 
+
+7
+
+Arq Bras Cardiol. 2026; 123(1):e20250459
+
+Moura et al.
+Mortalidade Cardiovascular e Poluição Atmosférica
+
+Artigo Original
+
+Tabela 4 – Taxas de óbito/1.000 hab. por DAC, DIC e DCBV, segundo estratos de MP2,5, faixa etária e sexo, com diferenças 
+absoluta e percentual entre os sexos e inferência estatística, bairros do município do Rio de Janeiro, 2000-2019
+
+Causa 
+do óbito
+
+Nível 
+de 
+MP2,5
+
+Bairros 
+(nº)
+
+Faixa 
+etária 
+(anos)
+
+Taxa 
+óbitos/1.000 
+habitantes 
+(M + F) ± 
+DP*
+
+Taxa 
+óbitos/1.000 
+habitantes  
+F ± DP  
+(IC 95%)**
+
+Taxa 
+óbitos/1.000 
+habitantes 
+M ± DP  
+(IC 95%)***
+
+Dif. 
+absoluta 
+(F – M) ****
+
+Dif. 
+relativa 
+(%) F†
+
+Dif. 
+relativa 
+(%) M‡
+
+Valor-p 
+para 
+sexos§
+
+Valor-p 
+para 
+estratos 
+MP2,5
+
+§
+
+14
+
+20-49
+
+0,26 ± 0,1
+
+PoM
+
+14
+
+50-69
+
+0,95 ± 0,3
+
+0,22 ± 0,1 
+(0,3-0,4)
+
+0,33 ± 0,1 
+(0,3-0,4)
+
+0,68 ± 0,2 
+(0,5-0,8)
+
+1,29 ± 0,3 
+(1,0-1,5)
+
+–0,11
+
+–0,61
+
+14
+
+≥ 70
+
+2,37 ± 1,0
+
+2,53 ± 1,1 
+(1,9-3,2)
+
+2,20 ± 0,9 
+(1,6-2,7)
+
+0,33
+
+43
+
+20-49
+
+0,29 ± 0,2
+
+0,22 ± 0,1 
+(0,2-0,3)
+
+0,37 ± 0,2 
+(0,3-0,4)
+
+–0,15
+
+—
+
+—
+
+—
+
+0
+
+—
+
+—
+
+—
+
+0,005
+
+0,121
+
+< 0,001
+
+0,017
+
+0,396
+
+0,392
+
+12,1
+
+0,001
+
+DAC
+
+PoA
+
+43
+
+50-69
+
+1,21 ± 0,5
+
+43
+
+≥ 70
+
+2,50 ± 0,9
+
+107
+
+20-49
+
+0,34 ± 0,2
+
+PoE
+
+107
+
+50-69
+
+1,36 ± 0,7
+
+107
+
+≥ 70
+
+2,40 ± 1,2
+
+14
+
+20-49
+
+0,09 ± 0,0
+
+PoM
+
+14
+
+50-69
+
+0,43 ± 0,1
+
+14
+
+≥ 70
+
+1,04 ± 0,4
+
+43
+
+20-49
+
+0,11 ± 0,1
+
+DIC
+
+PoA
+
+43
+
+50-69
+
+0,54 ± 0,2
+
+43
+
+≥ 70
+
+1,06 ± 0,4
+
+107
+
+20-49
+
+0,13 ± 0,1
+
+PoE
+
+107
+
+50-69
+
+0,61 ± 0,3
+
+107
+
+≥ 70
+
+1,00 ± 0,5
+
+0,88 ± 0,5 
+(0,7-1,0)
+
+1,53 ± 0,6 
+(1,3-1,7)
+
+2,68 ± 0,1 
+(2,3-2,9)
+
+2,35 ± 0,8 
+(2,1-2,6)
+
+0,26 ± 0,2 
+(0,2-0,3)
+
+0,39 ± 0,2 
+(0,3-0,4)
+
+1,03 ± 0,5 
+(0,9-1,1)
+
+1,80 ± 0,9 
+(1,6-1,9)
+
+2,55 ± 1,3 
+(2,3-2,8)
+
+2,22 ± 1,2 
+(1,9-2,5)
+
+0,04 ± 0,1 
+(0,0-0,1)
+
+0,14 ± 0,1 
+(0,1-0,2)
+
+0,28 ± 0,1 
+(0,2-0,3)
+
+0,64 ± 0,2 
+(0,5-0,7)
+
+1,05 ± 0,4 
+(0,7-1,3)
+
+1,06 ± 0,4 
+(0,7-1,3)
+
+0,06 ± 0,1 
+(0,0-0,1)
+
+0,13 ± 0,1 
+(0,1-0,2)
+
+0,38 ± 0,2 
+(0,3-0,4)
+
+0,77 ± 0,3 
+(0,6-0,9)
+
+1,07 ± 0,4 
+(0,9-1,2)
+
+1,06 ± 0,5 
+(0,9-1,2)
+
+0,07 ± 0,1 
+(0,0-0,07)
+
+0,16 ± 0,1 
+(0,1-0,2)
+
+0,41 ± 0,2 
+(0,3-0,4)
+
+0,84 ± 0,4 
+(0,7-0,9)
+
+1,01 ± 0,5 
+(0,9-1,1)
+
+1,00 ± 0,6 
+(0,8-1,0)
+
+–0,65
+
+29,4
+
+18,6
+
+< 0,001
+
+0,33
+
+5,9
+
+6,8
+
+0,053
+
+–0,13
+
+18,1
+
+18,1
+
+< 0,001
+
+–0,77
+
+51,4
+
+39,5
+
+< 0,001
+
+0,33
+
+0,8
+
+0,9
+
+0,028
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+–0,10
+
+–0,36
+
+–0,01
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+0,002
+
+0,320
+
+< 0,001
+
+0,019
+
+0,960
+
+0,278
+
+–0,07
+
+50,0
+
+–7,1
+
+< 0,001
+
+–0,39
+
+35,7
+
+20,3
+
+< 0,001
+
+0,01
+
+1,9
+
+0,0
+
+0,843
+
+–0,09
+
+75,0
+
+14,2
+
+< 0,001
+
+–0,43
+
+45,4
+
+32,8
+
+< 0,001
+
+0,01
+
+–3,8
+
+–5,6
+
+0,362
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+8
+
+Arq Bras Cardiol. 2026; 123(1):e20250459Moura et al.
+Mortalidade Cardiovascular e Poluição Atmosférica
+
+Artigo Original
+
+14
+
+20-49
+
+0,06 ± 0,0
+
+0,06 ± 0,1 
+(0,0-0,1)
+
+0,03 ± 0,0 
+(0,0-0,1)
+
+0,03
+
+PoM
+
+14
+
+50-69
+
+0,19 ± 0,1
+
+0,17 ± 0,1 
+(0,1-0,2)
+
+0,26 ± 0,1 
+(0,1-0,3)
+
+–0,09
+
+14
+
+≥ 70
+
+0,57 ± 0,2
+
+0,61 ± 0,2 
+(0,4-0,7)
+
+0,50 ± 0,1 
+(0,4-0,6)
+
+0,11
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+0,111
+
+0,717
+
+0,064
+
+< 0,001
+
+0,210
+
+0,825
+
+43
+
+20-49
+
+0,07 ± 0,0
+
+DCBV
+
+PoA
+
+43
+
+50-69
+
+0,27 ± 0,1
+
+43
+
+≥ 70
+
+0,63 ± 0,2
+
+107
+
+20-49
+
+0,07 ± 0,1
+
+PoE
+
+107
+
+50-69
+
+0,35 ± 0,2
+
+107
+
+≥ 70
+
+0,65 ± 0,3
+
+0,07 ± 0,1 
+(0,1-1,0)
+
+0,06 ± 0,1 
+(0,0-0,1)
+
+0,20 ± 0,1 
+(0,1-0,2)
+
+0,33 ± 0,2 
+(0,2-0,3)
+
+0,71 ± 0,3 
+(0,6-0,8)
+
+0,56 ± 0,2 
+(0,5-0,6)
+
+0,07 ± 0,1 
+(0,0-0,1)
+
+0,07 ± 0,1 
+(0,1-0,1)
+
+0,27 ± 0,2 
+(0,2-0,3)
+
+0,43 ± 0,3 
+(0,3-0,4)
+
+0,71 ± 0,4 
+(0,6-0,1)
+
+0,59 ± 0,3 
+(0,5-0,6)
+
+0,01
+
+16,6
+
+100
+
+0,986
+
+–0,13
+
+17,6
+
+26,9
+
+< 0,001
+
+0,15
+
+16,4
+
+12
+
+0,004
+
+0
+
+16,7
+
+133
+
+0,582
+
+–0,16
+
+58,8
+
+65,3
+
+< 0,001
+
+0,12
+
+16,40
+
+18,00
+
+0,004
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+DAC:  doenças  do  aparelho  circulatório;  DCBV:  doenças  cerebrovasculares;  DIC:  doenças  isquêmicas  do  coração;  DP:  desvio 
+padrão; F: feminino; IC: intervalo de confiança; M: masculino; MP2,5: material particulado fino com diâmetro aerodinâmico ≤ 2,5 μm; 
+PoA:  poluição  alta;  PoE:  poluição  extrema;  PoM:  poluição  moderada.  *Taxa  de  óbito  ajustada  por  idade  ≥  20  anos  por  1.000 
+habitantes, considerando ambos os sexos (M + F). **Taxa de óbito ajustada por idade por 1.000 habitantes para o sexo F, com DP e 
+IC 95%. ***Taxa de óbito ajustada por idade por 1.000 habitantes para o sexo M, com DP e IC 95%. ****Diferença absoluta entre as 
+taxas de óbito ajustadas dos sexos F e M (F – M); valores negativos indicam taxa F menor que a M, valores positivos indicam taxa 
+feminina maior. †Diferença relativa percentual das taxas de óbito por 1.000 habitantes no sexo F, para mesma faixa etária e causa, 
+entre estratos de MP2,5. ‡Diferença relativa percentual das taxas de óbito por 1.000 habitantes no sexo M, para mesma faixa etária 
+e causa, entre estratos de MP2,5. §Valor-p (sexos): significância estatística das diferenças nas taxas de óbito entre os sexos, por 
+faixa etária e estrato de MP2,5 (teste t de Student para amostras independentes); valor-p (estratos MP2,5 ): significância estatística 
+das diferenças nas taxas de óbito entre estratos de MP2,5 (PoM vs. PoA e PoM vs. PoE), ambos os sexos, por faixa etária e causa 
+de óbito (ANOVA com pós-teste de Tukey).
+
+melhores  indicadores  socioeconômicos  e  condições  de 
+vida  (Flamengo,  Ipanema,  Jardim  Botânico,  Lagoa).  Em 
+contrapartida, taxas altas ou intermediárias predominam 
+em  áreas  periféricas  com  alta  densidade  populacional 
+e  condições  habitacionais  precárias  (Santa  Cruz,  Padre 
+Miguel,  Ramos,  Olaria). 18,19  A  vulnerabilidade  social 
+intermediária  ou  alta,  identificada  em  71%  dos  bairros, 
+correlaciona- se  positivamente  com  concentrações 
+mais  elevadas  de  MP2,5  e  com  taxas  de  mortalidade, 
+configurando um gradiente de inequidade socioambiental.
+
+A redução da poluição atmosférica nos bairros do Rio 
+de Janeiro poderia impactar positivamente a mortalidade 
+por  DAC,  contribuindo  para  ganhos  em  expectativa 
+de  vida  saudável.19,20  Estudos  ecológicos  que  integram 
+poluição atmosférica e óbitos georreferenciados enfrentam 
+desafios  relacionados  à  complexa  morfologia  urbana 
+e  topográfica  da  cidade.  Apesar  de  este  estudo  não 
+ter  incluído  variáveis  meteorológicas  como  umidade, 
+
+temperatura  ou  precipitação,  esses  fatores  podem  ser 
+incorporados  em  análises  futuras.  Reconhece-se  que  os 
+dados de mortalidade podem apresentar limitações, como 
+subnotificação,  causas  mal  definidas  ou  garbage  codes; 
+contudo,  tais  limitações  não  invalidam  os  resultados 
+apresentados.
+
+Embora fundamental, a exposição ao MP2,5 não explica 
+de forma isolada as diferenças de mortalidade por DAC, 
+dada a natureza multifatorial dessas doenças, que incluem 
+outros fatores de risco não avaliados (obesidade, tabagismo, 
+sedentarismo e hipertensão arterial). Assim, a interpretação 
+dos achados deve considerar essa multicausalidade.
+
+Conclusão
+
+A poluição por MP2,5 nos bairros do município do Rio de 
+Janeiro excede em até quatro vezes os padrões recomendados 
+pela OMS, evidenciando falhas na implementação de políticas 
+públicas e atingindo de forma desproporcional a população 
+
+9
+
+Arq Bras Cardiol. 2026; 123(1):e20250459
+
+Moura et al.
+Mortalidade Cardiovascular e Poluição Atmosférica
+
+Artigo Original
+
+A)
+
+b
+a
+h
+0
+0
+0
+.
+1
+s
+o
+t
+i
+b
+ó
+a
+x
+a
+T
+
+10,00
+9,00
+8,00
+7,00
+6,00
+5,00
+4,00
+3,00
+2,00
+1,00
+0,00
+
+PoM
+
+PoE
+
+PoA
+
+C)
+
+b
+a
+h
+0
+0
+0
+.
+1
+s
+o
+t
+i
+b
+ó
+a
+x
+a
+T
+
+4,00
+3,50
+3,00
+2,50
+2,00
+1,50
+1,00
+0,50
+0,00
+
+B)
+
+b
+a
+h
+0
+0
+0
+.
+1
+s
+o
+t
+i
+b
+ó
+a
+x
+a
+T
+
+4,00
+
+3,00
+
+2,00
+
+1,00
+
+0,00
+
+PoM
+
+PoA
+
+PoE
+
+PoM
+
+PoA
+
+PoE
+
+Figura 2 – Taxas ajustadas de óbitos por 1.000 habitantes (≥ 20 anos) segundo estratos de MP2,5 nos bairros do município do Rio 
+de Janeiro, 2000-2019. A) Taxas ajustadas por idade de óbitos por doenças do aparelho circulatório. B) Taxas ajustadas por idade de 
+óbitos por doenças isquêmicas do coração. C) Taxas ajustadas por idade de óbitos por doenças cerebrovasculares.
+
+em situação de maior vulnerabilidade. Residentes em áreas 
+de alta e extrema poluição apresentam óbitos mais precoces 
+e  maiores  taxas  de  mortalidade  por  DAC,  DIC  e  DCBV, 
+sobretudo entre os homens.
+
+Apesar  da  tendência  de  redução  geral  da  mortalidade 
+por  DAC,  a  poluição  atmosférica  permanece  associada  a 
+mortes  prematuras,  com  importantes  repercussões  sociais 
+e econômicas. O direito a um ambiente saudável tem sido 
+sistematicamente negligenciado para milhões de residentes 
+desses  bairros,  especialmente  aqueles  em  condições 
+socioeconômicas mais desfavoráveis.
+
+Contribuição dos autores
+
+Potencial conflito de interesse
+
+Não há conflito com o presente artigo.
+
+Fontes de financiamento
+
+O  presente  estudo  não  teve  fontes  de  financiamento 
+
+externas.
+
+Vinculação acadêmica
+
+Este artigo é parte de tese de doutorado de Paulo Henrique 
+
+de Moura pela Universidade Federal do Rio de Janeiro.
+
+Concepção e desenho da pesquisa: Moura PH, Salis LHA, 
+Maia  LFPG,  Silva  NAS;  Obtenção  de  dados:  Godoy  PH, 
+Santos RL; Análise e interpretação dos dados: Carvalho LDG, 
+Paez MS, Alves MB, Silva NAS; Análise estatística: Moura PH, 
+Carvalho LDG, Paez MS, Alves MB; Redação do manuscrito: 
+Moura PH, Godoy PH, Salis LHA, Maia LFPG; Revisão crítica 
+do manuscrito quanto ao conteúdo: Santos RL, Silva NAS.
+
+Aprovação ética e consentimento informado 
+
+Este  estudo  foi  aprovado  pelo  Comitê  de  Ética  da 
+Associação de Ensino Superior de Nova Iguaçu sob o número 
+de protocolo 6.294.723. Todos os procedimentos envolvidos 
+nesse estudo estão de acordo com a Declaração de Helsinki 
+de 1975, atualizada em 2013.
+
+10
+
+Arq Bras Cardiol. 2026; 123(1):e20250459 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Moura et al.
+Mortalidade Cardiovascular e Poluição Atmosférica
+
+Artigo Original
+
+A)
+
+B)
+
+C)
+
+Taxa média ajustada de óbito DAC
+
+0-3,1
+
+3,1-5,1
+
+5,1-18,1
+
+Taxa média ajustada de óbito DIC
+
+0-1,4
+
+1,4-2,1
+
+2,1-7,7
+
+Taxa média ajustada de óbito DCBV
+
+0-0,8
+
+0,8-1,4
+
+1,4-4,6
+
+Figura 3 – Georreferenciamento das taxas médias de óbitos por 1.000 habitantes (≥ 20 anos), estratificadas por causa, nos 164 bairros 
+do município do Rio de Janeiro ao longo de 20 anos. A) Taxa média ajustada de doenças do aparelho circulatório (DAC). B) Taxa média 
+ajustada de doenças isquêmicas do coração (DIC). C) Taxa média ajustada de doenças cerebrovasculares (DCBV).
+
+11
+
+Arq Bras Cardiol. 2026; 123(1):e20250459
+
+Moura et al.
+Mortalidade Cardiovascular e Poluição Atmosférica
+
+Artigo Original
+
+Uso de Inteligência Artificial
+
+Disponibilidade de Dados
+
+Os  autores  não  utilizaram  ferramentas  de  inteligência 
+
+Os  conteúdos  subjacentes  ao  texto  da  pesquisa  estão 
+
+artificial no desenvolvimento deste trabalho.
+
+contidos no manuscrito.
+
+Referências
+
+1.  Dattani S, Spooner F, Ritchie H, Roser M. Our World in Data. 2023. Global 
+Burden of Disease - Causes of Death [Internet]. Oxford: Global Change Data 
+Lab; 2024 [cited 2025 Nov 11]. Available from: https://ourworldindata.org/
+causes-of-death.
+
+2.  Dattani S, Roser M. Our World in Data. 2023. Cardiovascular Diseases 
+Death [Internet]. Oxford: Global Change Data Lab; 2024 [cited 2025 
+Nov 11]. Available from: https://ourworldindata.org/cardiovascular-
+diseases.
+
+3. 
+
+Institute for Health Metrics and Evaluation. State of Global Air Report 2024 
+[Internet]. Seattle: Institute for Health Metrics and Evaluation; 2024 [cited 
+2025 Nov 11]. Available from: https://www.stateofglobalair.org/resources/
+report/state-global-air-report-2024.
+
+4.  Miller MR, Di Cesare M, Rahimzadeh S, Adeoye M, Perel P, Taylor S, et al. 
+Clearing the Air to Address Pollution’s Cardiovascular Health Crisis. Glob 
+Heart. 2024;19(1):82. doi: 10.5334/gh.1364.
+
+5.  GBD 2019 Risk Factors Collaborators. Global burden of 87 Risk Factors in 
+204 Countries and Territories, 1990-2019: A Systematic Analysis for the 
+Global Burden of Disease Study 2019. Lancet. 2020;396(10258):1223-49. 
+doi: 10.1016/S0140-6736(20)30752-2. 
+
+6.  WHO Global air Quality Guidelines: Particulate Matter (PM2.5 and PM10), 
+Ozone, Nitrogen Dioxide, Sulfur Dioxide and Carbon Monoxide [Internet]. 
+Geneva: World Health Organization; 2021. 
+
+7.  Hammer MS, van Donkelaar A, Li C, Lyapustin A, Sayer AM, Hsu NC, 
+et al. Global Estimates and Long-Term Trends of Fine Particulate Matter 
+Concentrations (1998-2018). Environ Sci Technol. 2020;54(13):7879-90. 
+doi: 10.1021/acs.est.0c01764. 
+
+8.  Maia JLM, Netto VM, Costa BLG. Urban Form and Atmospheric 
+Pollution: Assessing Impacts in Rio de Janeiro. Rev Bras Gest Urbana. 
+2019;11:e20180145. doi: 10.1590/2175-3369.011.001.e20180145.
+
+9.  Almeida AEM, Stein R. The Environment and the Heart. Arq Bras Cardiol. 
+
+2023;120(7):e20230119. doi: 10.36660/abc.20230119. 
+
+11.  Oliveira GMM, Brant LCC, Polanczyk CA, Malta DC, Biolo A, Nascimento 
+BR,  et al. Cardiovascular Statistics - Brazil 2023. Arq Bras Cardiol. 
+2024;121(2):e20240079. doi: 10.36660/abc.20240079. 
+
+12.  Global Burden of Disease Collaborative Network. Global Burden of Disease 
+(GBD) Cardiovascular Burden Estimates 1990 and 2021 [Internet]. Seatle: 
+Institute for Health Metrics and Evaluation; 2022 [cited 2025 Nov 11]. 
+Available from: https://ghdx.healthdata.org/record/ihme-data/cvd-1990-
+2021. doi.org/10.6069/R5WE-6Z85. 
+
+13.  Hayes RB, Lim C, Zhang Y, Cromar K, Shao Y, Reynolds HR, et al. PM2.5 
+Air Pollution and Cause-Specific Cardiovascular Disease Mortality. Int J 
+Epidemiol. 2020;49(1):25-35. doi: 10.1093/ije/dyz114. 
+
+14.  Souza LG, Siviero PCL. Sex Differentials in Avoidable Mortality and Potential 
+Life Expectancy Gains in São Paulo, SP, Brazil: A Cross-Sectional Study of 
+the Period 2014-2016. Epidemiol Serv Saude. 2020;29(3):e2018451. doi: 
+10.5123/S1679-49742020000300004. 
+
+15.  Guimarães RM, Andrade SS, Machado EL, Bahia CA, Oliveira MM, Jacques 
+FV. Regional Differences in Cardiovascular Mortality Transition in Brazil, 
+1980 to 2012. Rev Panam Salud Publica. 2015;37(2):83-9. 
+
+16.  Bichara JL, Bastos LA, Villela PB, Oliveira GMM. Socioeconomic Indicators 
+and Mortality from Ischemic Heart Disease and Cerebrovascular Disease in 
+Brazil from 2000 to 2019. Arq Bras Cardiol. 2023;120(8):e20220832. doi: 
+10.36660/abc.20220832. 
+
+17.  Santos SC, Villela PB, Oliveira GMM. Mortality Due to Heart Failure and 
+Socioeconomic Development in Brazil between 1980 and 2018. Arq Bras 
+Cardiol. 2021;117(5):944-51. doi: 10.36660/abc.20200902. 
+
+18.  Mansur AP, Favarato D. Mortality due to Cardiovascular Diseases in Women 
+and Men in the Five Brazilian Regions, 1980-2012. Arq Bras Cardiol. 
+2016;107(2):137-46. doi: 10.5935/abc.20160102. 
+
+19.  Zaluar A, Barcellos C. Premature Deaths and Turf War to Dominate Favelas 
+in Rio de Janeiro. Rev bras Ci Soc. 2013;28(81):17-31. doi: 10.1590/S0102-
+69092013000100002.
+
+10.  Floss M, Zandavalli RB, Leão JRB, Lima CV, Vianna N, Barros EF, et al. 
+Poluição do Ar: Uma Revisão de Escopo para Recomendações Clínicas Para 
+a Medicina de Família e Comunidade. Rev Bras Med Fam Comunidade. 
+2022;17(44):3038. doi:10.5712/rbmfc17(44)3038.
+
+20.  Salerno PRVO, Motairek I, Dallan LAP, Bourges-Sevenier B, Rajagopalan S, 
+Al-Kindi SG. Excess Systolic Blood Pressure Associated with Fine Particulate 
+Matter Air Pollution Above the WHO Guidelines in Brazil. Arq Bras Cardiol. 
+2023;120(11):e20230347. doi: 10.36660/abc.20230347.
+
+Este é um artigo de acesso aberto distribuído sob os termos da licença de atribuição pelo Creative Commons
+
+12
+
+Arq Bras Cardiol. 2026; 123(1):e20250459
