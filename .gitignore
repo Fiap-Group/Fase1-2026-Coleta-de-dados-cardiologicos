@@ -7,5 +7,5 @@
 #env
 .env
 #data/raw
-data/raw/*
+data/raw/**
 
