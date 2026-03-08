@@ -1,0 +1,11 @@
+# IDE
+/.idea
+/.awcache
+/.vscode
+# tests
+/coverage
+#env
+.env
+#data/raw
+data/raw/*
+

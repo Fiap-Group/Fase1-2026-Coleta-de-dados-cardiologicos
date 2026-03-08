@@ -32,7 +32,7 @@ Grupo 75
 
 - <b>assets/</b>: Imagens para documentação, logotipos e mídias do projeto
 - <b>configs/</b>: Arquivos YAML/JSON com hiperparâmetros e configurações de treino
-- <b>data/</b>: Gestão de dados (não versionar dados pesados no Git!)
+- <b>data/</b>: Gestão de dados (não versionar dados pesados no Git! adicionar ao .gitignore)
   - <b>external/</b>: Dados de fontes externas (APIs, scrapers)
   - <b>interim/</b>: Dados transformados intermediários
   - <b>processed/</b>: Conjuntos de dados finais para modelagem
@@ -44,21 +44,20 @@ Grupo 75
   - <b>experimental/</b>: Testes rápidos de modelos
 - <b>scripts/</b>: Scripts utilitários (shell scripts, automação de ambiente)
 - <b>shared/</b>: Recursos compartilhados entre diferentes módulos
-- <b>src/</b>: Código-fonte principal (transformado em pacote instalável)
+- <b>src/</b>: Código-fonte principal 
   - <b>data/</b>: Scripts para processamento e limpeza de dados
   - <b>features/</b>: Feature engineering e extração
   - <b>models/</b>: Definição das arquiteturas, treino e inferência
   - <b>visualization/</b>: Scripts para geração de gráficos e relatórios
 - <b>tests/</b>: Testes unitários e de integração
 - <b>deployment/</b>: Arquivos de Docker, Kubernetes ou especificações de API
-- <b>.gitignore</b>: Essencial para ignorar a pasta /data e /models (pesados)
+- <b>.gitignore</b>: Essencial para ignorar a pasta /data e /models 
 - <b>README.md</b>: Visão geral do projeto
 - <b>requirements.txt</b>: Dependências do projeto
 
 ## 🔧 Como executar o código
 
 * NADA POR AQUI AINDA...*
-
 ## 🗃 Histórico de lançamentos
 
 * 0.0.1 - 10/03/2026
