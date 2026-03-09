@@ -1,7 +1,7 @@
 # 🫀 Dataset Cardiovascular Simulado
 
 ## 📂 Arquivo
-dataset_cardio.csv
+- #### dataset_cardio.csv
 
 ## 📊 Origem dos dados
 Este dataset contém **dados simulados** baseados em variáveis clínicas comuns utilizadas em cardiologia.  
@@ -128,4 +128,5 @@ Combinando **dados estruturados + texto clínico**.
 # ⚠️ Observação
 
 Este dataset é **simulado** e destinado apenas para **fins educacionais, acadêmicos e experimentais** em projetos de ciência de dados e inteligência artificial.
+
 
