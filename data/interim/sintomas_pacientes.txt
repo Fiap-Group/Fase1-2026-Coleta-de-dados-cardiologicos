@@ -1,0 +1,10 @@
+1. [Idade: 45 | Sexo: M | Pressão: Alta | Histórico: Estresse] Há três dias estou com dor de cabeça constante, que piora à noite e tem dificultado minha concentração no trabalho.
+2. [Idade: 62 | Sexo: F | Pressão: Normal | Histórico: Diabetes] Sinto cansaço excessivo há uma semana, mesmo dormindo bem, o que tem afetado minha produtividade diária.
+3. [Idade: 55 | Sexo: M | Pressão: Alta | Histórico: Tabagista e Colesterol Alto] Desde ontem estou com dor no peito ao fazer esforço físico, o que me impede de realizar minhas atividades normais.
+4. [Idade: 78 | Sexo: F | Pressão: Baixa | Histórico: Uso de anti-hipertensivos] Tenho sentido tontura há dois dias, principalmente ao me levantar, o que tem me deixado inseguro para sair de casa.
+5. [Idade: 34 | Sexo: M | Pressão: Normal | Histórico: Nenhum] Estou com febre e dores no corpo há quatro dias, o que tem me impedido de trabalhar e realizar tarefas básicas.
+6. [Idade: 68 | Sexo: M | Pressão: Alta | Histórico: Sedentarismo e Obesidade] Sinto falta de ar há uma semana, especialmente ao subir escadas, o que tem limitado minhas atividades físicas.
+7. [Idade: 50 | Sexo: F | Pressão: Normal | Histórico: Dieta rica em gorduras] Tenho tido dores abdominais há três dias após as refeições, o que tem reduzido meu apetite.
+8. [Idade: 71 | Sexo: M | Pressão: Alta | Histórico: Ex-fumante] Estou com tosse persistente há cinco dias, principalmente à noite, o que tem atrapalhado meu sono.
+9. [Idade: 65 | Sexo: F | Pressão: Normal | Histórico: Sobrepeso] Sinto dores nas articulações há duas semanas, o que tem dificultado meus movimentos no dia a dia.
+10. [Idade: 58 | Sexo: F | Pressão: Alta | Histórico: Histórico familiar de infarto] Tenho apresentado náuseas e mal-estar há dois dias, o que tem afetado minha alimentação.
